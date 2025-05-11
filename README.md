@@ -10,9 +10,8 @@ This is a PCB design I made for the Solder YSWS! I used KiCad to design the sche
 - 1x CR2032 Battery Cell
 - 1x Custom PCB
 
-![image](https://github.com/user-attachments/assets/7a6fa748-7b4e-4333-af76-e41f9172095b)
-![image](https://github.com/user-attachments/assets/ab3f2580-2dd0-4483-879a-6cb8b1365613)
-![image](https://github.com/user-attachments/assets/f9086cdc-b57d-4b92-9f9d-6bc2ada38261)
-![image](https://github.com/user-attachments/assets/0f681e81-a803-4877-9af3-2e3811863a51)
+![image](https://github.com/user-attachments/assets/70c83b58-eaa7-4514-bf44-312ca16769f6)
+![image](https://github.com/user-attachments/assets/27fb593a-4398-4ab8-ac51-76f2b4d1f386)
+![image](https://github.com/user-attachments/assets/149896d8-f4f0-4dcb-8fb2-e012981d3e51)
 
 @Selena on Hack Club Slack
